@@ -1,3 +1,5 @@
+/* Author: Jacob Cohen <jacob@jacobcohen.info> */
+
 #define SIZE 4096
 #define RED "\e[0;31m"
 #define BRED "\e[1;31m"
